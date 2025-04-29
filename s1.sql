@@ -1,0 +1,1 @@
+SELECT * FROM salesdata2009.salesjan2009;

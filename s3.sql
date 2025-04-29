@@ -1,0 +1,1 @@
+SELECT * FROM salesjan2009 LIMIT 10;

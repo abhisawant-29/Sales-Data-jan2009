@@ -1,0 +1,1 @@
+SELECT DISTINCT Product FROM salesjan2009 ORDER BY Product;
