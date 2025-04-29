@@ -1,4 +1,4 @@
-# Sales-Data-jan2009
+# Sales-Data-jan2009 Sql
 Ecommerce Sales Analysis — January 2009
 Dataset Used:
 File: SalesJan2009.csv
